@@ -1,0 +1,53 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Cardapio pagina home **/
+.cardapiohome .uagb-rm-details {
+	width: 500px !important;
+	height: 80px !important;
+}
+
+/** Conteúdo >> Cardapio Home price **/
+.cardapiohome .uagb-rm__price {
+	
+}
+
+/** Conteúdo >> Uagb block bc1802fb **/
+.uagb-block-bc1802fb {
+	padding-right: 0 !important;
+	margin-right: auto !important;
+	margin-left: auto !important;
+}
+
+/** Conteúdo >> Site below footer wrap **/
+.site-below-footer-wrap {
+	height: 40px !important;
+	min-height: 20px !important;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+/** Conteúdo >> Site footer **/
+.site-footer {
+	
+}
+
+/** Conteúdo >> Site header primary section left div (#2) **/
+.site-header-primary-section-left > div:nth-of-type(2) {
+	padding-left: 0 !important;
+}
+
+/** Conteúdo >> Ast header html 1 **/
+.ast-header-html-1 {
+	padding-right: 0 !important;
+}
+
+/** Conteúdo >> Paragraph span **/
+p > span {
+	font-size: 40px !important;
+	padding-right: 2px !important;
+}
+
